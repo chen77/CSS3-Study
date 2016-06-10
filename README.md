@@ -1,2 +1,1 @@
-# CSS3-Study
-css3学习记录
+# CSS动画学习记录
