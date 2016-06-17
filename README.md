@@ -8,4 +8,4 @@
 * [W3Cplus-动画基础知识点详解](http://www.w3cplus.com/content/css3-animation)
 
 ###练习1——沿着路径旋转动画
-![路径旋转动画](http://ww4.sinaimg.cn/mw690/aaf9f3f0gw1f4y05d5tjgg20do0cqtc6.gif)
+![路径旋转动画](http://ww4.sinaimg.cn/large/aaf9f3f0gw1f4y05d5tjgg20do0cqtc6.gif)
