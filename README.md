@@ -9,3 +9,5 @@
 
 ###练习1——沿着路径旋转动画
 ![路径旋转动画](http://ww4.sinaimg.cn/mw690/aaf9f3f0gw1f4y05d5tjgg20do0cqtc6.gif)
+###练习2——动画来回移动
+![路径旋转动画](http://ww3.sinaimg.cn/mw690/aaf9f3f0gw1f52zh7lyf8g20770ea7wj.gif)
